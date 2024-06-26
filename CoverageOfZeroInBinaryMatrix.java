@@ -1,6 +1,6 @@
 //{ Driver Code Starts
 // Initial Template for Java
-
+// Coverage of zero is the total number of ones around zero in up down left right 
 import java.io.*;
 import java.lang.*;
 

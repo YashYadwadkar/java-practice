@@ -8,7 +8,7 @@
 
 import java.util.*;
 
-class Check_IsToepliz {
+class CheckIsToepliz {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
@@ -38,7 +38,7 @@ class Check_IsToepliz {
 // } Driver Code Ends
 
 
-class CheckIsToepliz {
+class GfG {
     /*You are required to complete this method*/
     boolean isToepliz(int mat[][]) {
         // Your code here

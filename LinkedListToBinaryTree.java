@@ -72,7 +72,7 @@ class LinkedListToBinaryTree {
             }
             int n = sc.nextInt();
             if (n != 0) {
-                GFG llist = new GFG();
+                LinkedListToBinaryTree llist = new LinkedListToBinaryTree();
                 int a1 = sc.nextInt();
                 head = new Node(a1);
                 llist.addToTheLast(head);
